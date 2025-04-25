@@ -1,13 +1,22 @@
 # VSD
 ## DAY 1:  Introduction to RISC-V ISA and GNU compiler toolchain
 
-![image](https://github.com/user-attachments/assets/b02e805e-7c06-409d-b9d5-bf2539d7d07f)
+
+![VSD(1 OF LAB2)](https://github.com/user-attachments/assets/8fe9b386-05c7-4b69-bdbc-0185e5594082)
+
+
+
 
 ## DAY 2:  Basics of ABI (Application Binary Interface)
 
 ![image](https://github.com/user-attachments/assets/2f84f290-7fcb-4a54-9a4d-a132475fc287)
 
+![WhatsApp Image 2025-04-25 at 22 53 46_825e3095](https://github.com/user-attachments/assets/f895bf0c-56e1-4625-ae1c-882abef6cc45)
+
 ![vsd(1 of3)](https://github.com/user-attachments/assets/f89c30c0-d52d-4838-b612-25f035cd5161)
+
+![vsd (3of 3)](https://github.com/user-attachments/assets/d4fc510e-8bc1-4ae0-8018-7f163dad38b2)
+
 
 
 
