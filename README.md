@@ -59,9 +59,11 @@ link: (https://makerchip.com/sandbox/0OYfAhAyJ/0nZh7YN)
 link:(https://makerchip.com/sandbox/0OYfAhAyJ/0xGh13E)
 ![image](https://github.com/user-attachments/assets/e5afaa7d-f61b-4f56-b932-0dffce0834bd)
 
+### 2 cycle oscillator oscillator with validity
+link:(https://makerchip.com/sandbox/0OYfAhAyJ/0lOh2vx)
 
-
-
+###  memory and recall function
+link: (https://makerchip.com/sandbox/0OYfAhAyJ/0mwhjr4)   
 
 
 
