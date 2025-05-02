@@ -25,8 +25,10 @@
 ### Introduction to Makerchip
 ![image](https://github.com/user-attachments/assets/22ff3ff9-8cd1-46e6-8baf-a1f1a234777b)
 
+
 ### Fibonacci series Lab
 ![image](https://github.com/user-attachments/assets/f58e39a3-57b4-4667-b94f-6a75b6fd69a5)
+()
 
 ### Free running Oscillator
 ![image](https://github.com/user-attachments/assets/1d0090cf-b1d8-4837-a3d2-74e75590643e)
@@ -43,12 +45,14 @@
 ## DAY 4:  Basic RISC-V CPU micro-architecture
 
 ### Instruction Decode
-![image](https://github.com/user-attachments/assets/819759d7-123e-422d-8405-d6fdd8020702)
+![image](https://github.com/user-attachments/assets/58f91452-c745-492f-9b81-5a2e1a865af6)
+![image](https://github.com/user-attachments/assets/9aac387b-6365-45c8-aea5-4c45b380d3e8)
 
+link:(https://makerchip.com/sandbox/00Rf2hLmR/0Y6hL4L)
 ## Day 5: Complete Piplined RISCV CPU Microarchitecture
-![image](https://github.com/user-attachments/assets/ee2dd630-1022-4e60-b8b0-16f0d946172c)
-![image](https://github.com/user-attachments/assets/59c78dea-1dc2-4d96-a4b3-34ad00cdc3a6)
+![image](https://github.com/user-attachments/assets/67dca69e-81b4-4a8d-8931-ff60ef55a15b)
 
+link: (https://makerchip.com/sandbox/00Rf2hLmR/0VmhxBW)
 
 
 
