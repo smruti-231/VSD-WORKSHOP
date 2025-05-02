@@ -1,5 +1,5 @@
 # VSD
-## DAY 1:  Introduction to RISC-V ISA and GNU compiler toolchain
+## DAY 1:  Introduction to RISC-V ISA and GNU compiler toolchain,
 
 
 ![VSD(1 OF LAB2)](https://github.com/user-attachments/assets/8fe9b386-05c7-4b69-bdbc-0185e5594082)
