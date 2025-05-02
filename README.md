@@ -41,19 +41,21 @@ link:(https://makerchip.com/sandbox/0OYfAhAyJ/0oYhr04)
 ![image](https://github.com/user-attachments/assets/37c92565-5bcd-41ff-899b-4fe25d798a3c)
 link: (https://makerchip.com/sandbox/0OYfAhAyJ/0pghnBG)
 
+
+
 ### pythagoras pipeline 
-link: (https://www.makerchip.com/sandbox/0PNf4hBqV/0r0h8GW)
+link: (https://www.makerchip.com/sandbox/0PNf4hBqV/0r0h8GY)
 ![image](https://github.com/user-attachments/assets/69c26412-e217-4ff4-80a1-663f2d8be055)
 
 ### Calculator Error handling
-link: (https://makerchip.com/sandbox/0OYfAhAyJ/0vgh73l)
+link: (https://makerchip.com/sandbox/0OYfAhAyJ/0oYhr0Y)
 ![image](https://github.com/user-attachments/assets/9b9c63ec-4cdc-42b9-a962-6ba8a5b90bd1)
 
 ### calculator and counter
-link: (https://makerchip.com/sandbox/0OYfAhAyJ/0wjhGWn)
+link: (https://makerchip.com/sandbox/0OYfAhAyJ/0nZh7YN)
 ![image](https://github.com/user-attachments/assets/da35cc60-d570-4ab1-b074-ed0e2a3f61b7)
 
-### 2 cycle calculator
+### 2 cycle oscillator calculator
 link:(https://makerchip.com/sandbox/0OYfAhAyJ/0xGh13E)
 ![image](https://github.com/user-attachments/assets/e5afaa7d-f61b-4f56-b932-0dffce0834bd)
 
