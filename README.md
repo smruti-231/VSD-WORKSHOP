@@ -54,13 +54,13 @@ link: (https://makerchip.com/sandbox/0OYfAhAyJ/0oYhr0Y)
 ### calculator and counter
 link: (https://makerchip.com/sandbox/0OYfAhAyJ/0nZh7YN)
 ![image](https://github.com/user-attachments/assets/da35cc60-d570-4ab1-b074-ed0e2a3f61b7)
-![image](https://github.com/user-attachments/assets/49c25f93-b925-4cd1-a9a1-8ada68218ec2)
+
 
 
 ### 2 cycle oscillator calculator
 link:(https://makerchip.com/sandbox/0OYfAhAyJ/0xGh13E)
 ![image](https://github.com/user-attachments/assets/e5afaa7d-f61b-4f56-b932-0dffce0834bd)
-![image](https://github.com/user-attachments/assets/f0b9acf6-2dcf-4d42-8b9d-297a492d1d43)
+
 
 ### 2 cycle oscillator oscillator with validity
 link:(https://makerchip.com/sandbox/0OYfAhAyJ/0lOh2vx)
