@@ -54,32 +54,28 @@ link: (https://makerchip.com/sandbox/0OYfAhAyJ/0oYhr0Y)
 ### calculator and counter
 link: (https://makerchip.com/sandbox/0OYfAhAyJ/0nZh7YN)
 ![image](https://github.com/user-attachments/assets/da35cc60-d570-4ab1-b074-ed0e2a3f61b7)
+![image](https://github.com/user-attachments/assets/49c25f93-b925-4cd1-a9a1-8ada68218ec2)
+
 
 ### 2 cycle oscillator calculator
 link:(https://makerchip.com/sandbox/0OYfAhAyJ/0xGh13E)
 ![image](https://github.com/user-attachments/assets/e5afaa7d-f61b-4f56-b932-0dffce0834bd)
+![image](https://github.com/user-attachments/assets/f0b9acf6-2dcf-4d42-8b9d-297a492d1d43)
 
 ### 2 cycle oscillator oscillator with validity
 link:(https://makerchip.com/sandbox/0OYfAhAyJ/0lOh2vx)
+![image](https://github.com/user-attachments/assets/2a8fb360-9aff-4909-9298-cde6a7d7b1a1)
+
 
 ###  memory and recall function
 link: (https://makerchip.com/sandbox/0OYfAhAyJ/0mwhjr4)   
+![image](https://github.com/user-attachments/assets/43026b44-672b-4811-b199-1db6c9739052)
 
 
 
 
 
-### Free running Oscillator
-![image](https://github.com/user-attachments/assets/1d0090cf-b1d8-4837-a3d2-74e75590643e)
 
-### Combinational Calculator
-![image](https://github.com/user-attachments/assets/c270591b-f197-43a3-b650-70416bd7decd)
-
-### Seqential Calculator
-![image](https://github.com/user-attachments/assets/d97798a1-763b-4059-8b27-09417e00312c)
-
-### 2 Cycle Pipeline Calculator
-![image](https://github.com/user-attachments/assets/f3e6ee22-a94c-4cb8-8353-6dc65c0f9d2e)
 
 
 ## DAY 4:  Basic RISC-V CPU micro-architecture
